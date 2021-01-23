@@ -7,4 +7,4 @@
 - 2021 Goal 🥅 : Start contributing to open source projects.
 
 ## Find me At:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />] [Twitter](https://twitter.com/ProPy_10)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />] [Twitter] (https://twitter.com/ProPy_10)
