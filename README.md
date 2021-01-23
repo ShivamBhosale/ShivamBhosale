@@ -1,5 +1,9 @@
-### Hi there I'm Shivam Bhosale👋
+# Hi there, I'm Shivam Bhosale👋
 
-<!--
-**ShivamBhosale/ShivamBhosale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Computer Science Undergrad
+- Committed to Python although I might have a crush on swift.
+- Currently trying to understand Deep Learning using TensorFlow. 
+- Interested to pursue my career in Data Science.
+- 2021 Goal : Start contributing to open source projects.
+
 
