@@ -5,7 +5,7 @@
 - Currently trying to understand Deep Learning using TensorFlow. 
 - Interested to pursue my career in Data Science.
 - 2021 Goal 🥅 : Start contributing to open source projects.
-<br>
+<br></br>
 ---
 ## Find me at:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
