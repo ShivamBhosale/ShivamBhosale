@@ -12,7 +12,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />][kaggle]
 <br></br>
 ---
 ## Languages and Tools
@@ -35,4 +35,5 @@
 [website]: https://www.teaandtech.org/
 [instagram]: https://www.instagram.com/shivambhosle99/
 [linkedin]: https://www.linkedin.com/in/shivambhosale/
+[kaggle]: https://www.kaggle.com/shivambhosale99
 [python]: https://www.python.org/
