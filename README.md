@@ -40,4 +40,4 @@
 [kaggle]: https://www.kaggle.com/shivambhosale99
 [python]: https://www.python.org/
 [facebook]: https://www.facebook.com/Shivambhosle99
-[gmail]: shivambhosale1511@gmail.com
+[gmail]: mailto:shivambhosale1511@gmail.com.com?subject=[GitHub]%20Source%20Han%20Sans
