@@ -38,7 +38,7 @@
 
 [twitter]: https://twitter.com/ProPy_10
 [website]: https://www.teaandtech.org/
-[instagram]: https://www.instagram.com/shivambhosle99/
+[instagram]: https://www.instagram.com/pineapple__sandwich/
 [linkedin]: https://www.linkedin.com/in/shivambhosale/
 [kaggle]: https://www.kaggle.com/shivambhosale99
 [python]: https://www.python.org/
