@@ -7,10 +7,13 @@
 - 2021 Goal 🥅 : Learn about cryptocurrency and start investing in them.
 <br></br>
 ---
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamBhosale&theme=dark&show_icons=true&count_private=true" alt="stat">
 </p>
+
 ---
+
 ## Find me at:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
