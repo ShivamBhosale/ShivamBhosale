@@ -1,4 +1,4 @@
-# Hey, I'm Shivam Bhosale👋
+# Hey, I'm Shivam Bhosale 
 
 ## I'm a Computer Science Undergrad 👨🏽‍💻
 - Committed to Python although I might have a crush on swift.
