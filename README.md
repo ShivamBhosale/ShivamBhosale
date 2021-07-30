@@ -11,9 +11,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamBhosale&theme=algolia&show_icons=true&count_private=true" alt="stat">
 </p>
-<p align="right">
-<img src ="https://github-readme-stats.vercel.app/api/pin/?username=ShivamBhosale&repo=PlantLeafDiseaseDetection" alt="lang">
-</p>
                                                                                                                                              
 ---
 
