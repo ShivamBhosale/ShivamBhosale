@@ -4,7 +4,7 @@
 - Committed to Python although I might have a crush on swift.
 - Currently trying to understand Deep Learning using TensorFlow. 
 - Interested to pursue my career in Data Science.
-- 2021 Goal 🥅 : Learn about cryptocurrency and start investing in them.
+- 2021 Goal 🥅 : Learn about cryptocurrencies and start investing in them.
 <br></br>
 ---
 
