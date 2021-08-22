@@ -1,6 +1,6 @@
 # Hey, I'm Shivam Bhosale 
 
-## I'm a Computer Science Undergrad 👨🏽‍💻
+## I'm a Computer Science Graduate 👨🏽‍💻
 - Committed to Python although I might have a crush on Swift.
 - Currently trying to understand Deep Learning using TensorFlow. 
 - Interested to pursue my career in Data Science.
