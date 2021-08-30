@@ -8,7 +8,7 @@
 <br></br>
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamBhosale&theme=algolia&show_icons=true&count_private=true" alt="stats">
 </p>
                                                                                                                                              
