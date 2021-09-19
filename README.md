@@ -9,8 +9,7 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamBhosale&theme=algolia&show_icons=true&count_private=true" alt="stats">
-  <a href="https://app.daily.dev/ShivamBhosale"><img src="https://api.daily.dev/devcards/2f441a69a612496597fe749360581984.png?r=0cg" width="300" alt="Shivam Bhosale's Dev Card"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamBhosale&theme=dark&show_icons=true&count_private=true" alt="stats">
 </p>
                                                                                                                                              
 ---
