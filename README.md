@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamBhosale&theme=algolia&show_icons=true&count_private=true" alt="stats">
+  <a href="https://app.daily.dev/ShivamBhosale"><img src="https://api.daily.dev/devcards/2f441a69a612496597fe749360581984.png?r=0cg" width="200" alt="Shivam Bhosale's Dev Card"/></a>
 </p>
                                                                                                                                              
 ---
@@ -53,5 +54,3 @@
 [python]: https://www.python.org/
 [facebook]: https://www.facebook.com/Shivambhosle99
 [gmail]: mailto:shivambhosale1511@gmail.com.com?subject=[GitHub]%20Enquiry
-
-<a href="https://app.daily.dev/ShivamBhosale"><img src="https://api.daily.dev/devcards/2f441a69a612496597fe749360581984.png?r=0cg" width="400" alt="Shivam Bhosale's Dev Card"/></a>
