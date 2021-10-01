@@ -1,4 +1,4 @@
-# Hey, I'm Shivam Bhosale 
+# Hey, I'm Shivam Sunil Bhosale 
 
 ## A Computer Science Graduate 👨🏽‍💻
 - Committed to Python although I might have a crush on Swift.
