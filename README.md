@@ -16,7 +16,7 @@
 ---
 
 ## Find me at:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" target="_blank"/>][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"/>][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank"/>][instagram]
@@ -46,7 +46,7 @@
 </p>
 
 [twitter]: https://twitter.com/ProPy_10
-[website]: https://www.teaandtech.org/
+[hackerrank]: https://www.hackerrank.com/shivambhosale
 [instagram]: https://www.instagram.com/pineapple__sandwich/
 [linkedin]: https://www.linkedin.com/in/shivambhosale/
 [kaggle]: https://www.kaggle.com/shivambhosale99
