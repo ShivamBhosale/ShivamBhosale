@@ -9,7 +9,7 @@
 <br></br>
 ---
 
-- 📝 I regularly write articles on [https://www.teaandtech.org/](www.teaandtech.org) {:target="_blank"}
+- 📝 I regularly write articles on [www.teaandtech.org](https://www.teaandtech.org/) {:target="_blank"}
 
 
 
