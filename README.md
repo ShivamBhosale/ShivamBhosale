@@ -9,7 +9,8 @@
 <br></br>
 ---
 
-- 📝 I regularly write articles on [https://www.teaandtech.org/](https://www.teaandtech.org/)
+- 📝 I regularly write articles on <a href="https://www.teaandtech.org/" target="_blank">www.teaandtech.org</a>
+
 
 
 
