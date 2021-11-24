@@ -9,7 +9,7 @@
 <br></br>
 ---
 
-- 📝 I regularly write articles on <a href="https://www.teaandtech.org/" target="_blank">www.teaandtech.org</a>
+- 📝 I regularly write articles on [https://www.teaandtech.org/](www.teaandtech.org){:target="_blank"}
 
 
 
