@@ -58,4 +58,4 @@
 [gmail]: mailto:shivambhosale1511@gmail.com.com?subject=[GitHub]%20Enquiry
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShivamBhosale.ShivamBhosale)
