@@ -46,7 +46,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][python]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][python]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamBhosale&hide=TeX&layout=compact)
+
 
 [twitter]: https://twitter.com/ProPy_10
 [hackerrank]: https://www.hackerrank.com/shivambhosale
@@ -57,3 +57,5 @@
 [facebook]: https://www.facebook.com/Shivambhosle99
 [gmail]: mailto:shivambhosale1511@gmail.com.com?subject=[GitHub]%20Enquiry
 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
