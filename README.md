@@ -46,9 +46,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][python]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][python]
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ShivamBhosale/ShivamBhosale/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamBhosale&hide=TeX&layout=compact)
 
 [twitter]: https://twitter.com/ProPy_10
 [hackerrank]: https://www.hackerrank.com/shivambhosale
@@ -58,3 +56,4 @@
 [python]: https://www.python.org/
 [facebook]: https://www.facebook.com/Shivambhosle99
 [gmail]: mailto:shivambhosale1511@gmail.com.com?subject=[GitHub]%20Enquiry
+
