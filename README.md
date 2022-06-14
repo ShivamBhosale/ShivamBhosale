@@ -1,4 +1,9 @@
-# Hey, I'm Shivam Sunil Bhosale 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm Shivam+Bhosale+👋&center=true&size=30">
+  </a>
+</h1>
+
 
 ## A Computer Science Graduate 👨🏽‍💻
 - Committed to Python although I might have a crush on JS.
@@ -57,5 +62,3 @@
 [facebook]: https://www.facebook.com/Shivambhosle99
 [gmail]: mailto:shivambhosale1511@gmail.com.com?subject=[GitHub]%20Enquiry
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShivamBhosale.ShivamBhosale)
