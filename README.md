@@ -1,9 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm Shivam+Bhosale+👋&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I'm+Shivam+Bhosale&center=true&size=35">
   </a>
 </h1>
-
 
 ## A Computer Science Graduate 👨🏽‍💻
 - Committed to Python although I might have a crush on JS.
@@ -16,23 +15,20 @@
 
 - 📝 I regularly write articles on [www.teaandtech.org](https://www.teaandtech.org/)
 
-
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamBhosale&theme=light&show_icons=true&count_private=true" alt="stats">
-</p>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamBhosale&theme=react&border=61dafb&hide_border=true" alt="ShivamBhosale" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ShivamBhosale&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
                                                                                                                                              
----
 
-## Find me at:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" target="_blank"/>][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"/>][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank"/>][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" target="_blank"/>][kaggle]
+<br><br><br><br><br><br>
 
-<br></br>
 ---
 
 ## Languages and Tools
@@ -51,6 +47,18 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][python]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][python]
 
+
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=ShivamBhosale&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+<br> <br>
+
+## Find me at:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" target="_blank"/>][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"/>][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank"/>][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" target="_blank"/>][kaggle]
+
+<br></br>
 
 
 [twitter]: https://twitter.com/ProPy_10
