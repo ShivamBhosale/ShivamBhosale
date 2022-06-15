@@ -13,7 +13,7 @@
 <br></br>
 ---
 
-- 📝 I regularly write articles on [www.teaandtech.org](https://www.teaandtech.org/)
+- 📝 I regularly write blogs on my personal blogging site <a href="https://www.teaandtech.org/" target="_blank">TeaAndTech.</a>
 
 
 <p align=center>
