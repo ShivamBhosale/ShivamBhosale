@@ -5,7 +5,7 @@ In my role as a front-end web developer, I have honed my skills in HTML, CSS, an
 
 Complementing my front-end skills, my academic and practical exposure in data science and analysis allows me to dive deep into complex datasets to uncover meaningful insights. Proficient in data wrangling, cleaning, and visualization tools such as Python, R, SQL, and Tableau, I have the ability to extract valuable information and identify trends to support informed decision-making. I am well-versed in statistical techniques and machine learning algorithms, enabling me to develop predictive models and conduct exploratory data analysis.
 
-If you are seeking a front-end web developer and data science/analysis professional who combines technical proficiency with a passion for innovation, please reach out. I am excited to contribute my skills and drive impactful solutions as I progress in my academic and professional journe
+If you are seeking a front-end web developer and data science/analysis professional who combines technical proficiency with a passion for innovation, please reach out. I am excited to contribute my skills and drive impactful solutions as I progress in my academic and professional journey
 (https://www.teaandtech.org/)
 
 
