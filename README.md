@@ -1,5 +1,12 @@
 # Shivam Sunil Bhosale
-Interested to pursue my career in Data Science.<br>Committed to DS although I might have a crush on Mobile Application Development.<br>Currently reading Artificial Intelligence: A Modern Approach.<br> I periodically write blogs on [TeaandTech](https://www.teaandtech.org/)
+Passionate front-end web developer and data science enthusiast currently pursuing a Masters of Applied Computing degree from the University of Windsor. With a solid foundation in Computer Science Engineering from SRM Institute of Science and Technology, I possess a unique skill set that combines expertise in front-end development (JavaScript) and data science/analysis (Python).
+
+In my role as a front-end web developer, I have honed my skills in HTML, CSS, and JavaScript to create visually stunning and intuitive user interfaces. I am experienced in leveraging modern front-end frameworks such as React to build responsive and interactive web applications.
+
+Complementing my front-end skills, my academic and practical exposure in data science and analysis allows me to dive deep into complex datasets to uncover meaningful insights. Proficient in data wrangling, cleaning, and visualization tools such as Python, R, SQL, and Tableau, I have the ability to extract valuable information and identify trends to support informed decision-making. I am well-versed in statistical techniques and machine learning algorithms, enabling me to develop predictive models and conduct exploratory data analysis.
+
+If you are seeking a front-end web developer and data science/analysis professional who combines technical proficiency with a passion for innovation, please reach out. I am excited to contribute my skills and drive impactful solutions as I progress in my academic and professional journe
+(https://www.teaandtech.org/)
 
 
 ## 🌐 Socials:
