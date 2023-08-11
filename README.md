@@ -1,4 +1,4 @@
-# 👀 About Me:
+# Shivam Sunil Bhosale
 Interested to pursue my career in Data Science.<br>Committed to DS although I might have a crush on Mobile Application Development.<br>Currently reading Artificial Intelligence: A Modern Approach.<br> I periodically write blogs on [TeaandTech](https://www.teaandtech.org/)
 
 
