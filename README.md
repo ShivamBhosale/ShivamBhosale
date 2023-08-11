@@ -30,3 +30,4 @@ If you are seeking a front-end web developer and data science/analysis professio
 
 
   
+![Visitor Count](https://profile-counter.glitch.me/ShivamBhosale/count.svg)
