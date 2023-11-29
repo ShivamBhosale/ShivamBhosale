@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Shivam Sunil Bhosale! 
 ## 🚀 About Me
 
-I'm a passionate full-stack web developer and a data science enthusiast currently pursuing a Masters of Applied Computing degree from the University of Windsor. With a strong foundation in Computer Science Engineering from SRM Institute of Science and Technology, I bring a unique skill set that bridges full-stack webdevelopment with data science/analysis.
+I'm a passionate full-stack web developer and a data science enthusiast currently pursuing a Masters of Applied Computing degree from the University of Windsor. With a strong foundation in Computer Science Engineering from SRM Institute of Science and Technology, I bring a unique skill set that bridges full-stack web development with data science/analysis.
 
 In my role as a fullstack web developer, I excel in HTML, CSS, JavaScript, NodeJS, and Django to craft visually stunning and intuitive user interfaces. I have extensive experience working with modern front-end frameworks, including React, to create responsive and interactive web applications.
 
