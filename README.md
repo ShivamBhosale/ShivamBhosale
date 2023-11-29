@@ -7,7 +7,7 @@ In my role as a fullstack web developer, I excel in HTML, CSS, JavaScript, NodeJ
 
 In addition to my dev skills, my academic and practical exposure in data science empowers me to dive deep into complex datasets, revealing meaningful insights. Proficient in data wrangling, cleaning, and visualization tools such as Python, R, SQL, and Tableau, I possess the ability to extract valuable information and identify trends to support informed decision-making. My expertise extends to statistical techniques and machine learning algorithms, enabling me to develop predictive models and conduct exploratory data analysis.
 
-If you're looking for a full stackweb developer and data science/analysis professional who blends technical proficiency with a passion for innovation, I'm eager to collaborate. I'm excited to contribute my skills and drive impactful solutions as I progress in my academic and professional journey.
+If you're looking for a full stack web developer and data science/analysis professional who blends technical proficiency with a passion for innovation, I'm eager to collaborate. I'm excited to contribute my skills and drive impactful solutions as I progress in my academic and professional journey.
 
 Website: [TeaandTech](https://teaandtech.hashnode.dev/)
 
