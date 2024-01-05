@@ -26,5 +26,5 @@ Website: [TeaandTech](https://teaandtech.hashnode.dev/)
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) 
 
 
-  
+### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/ShivamBhosale/count.svg)
