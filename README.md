@@ -3,7 +3,7 @@
 
 📍 Toronto, Canada  
 🔗 LinkedIn: https://www.linkedin.com/in/shivambhosale  
-✍️ Writing: https://teaandtech.hashnode.dev  
+
 
 ---
 
