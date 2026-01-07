@@ -1,111 +1,55 @@
-# Shivam Sunil Bhosale  
-**Applied AI · Data Analytics · Automation**
+# 👋 Hi, I’m **Shivam Bhosale**
+**Data Analyst & AI Engineer** based in Toronto, Canada — I convert data into insights and build models that solve real problems.
 
-📍 Toronto, Canada  
-🔗 LinkedIn: https://www.linkedin.com/in/shivambhosale  
-
+📍 *Bridging the gap between raw data and decision-making with analytics, ML/AI, and clean engineering workflows.* :contentReference[oaicite:1]{index=1}
 
 ---
 
-## About
+## 📌 About Me
 
-I build **automation-first data and AI systems**—tools that reduce manual effort, improve decision quality, and scale reliably.
-
-My work focuses on applying **machine learning and large language models (LLMs)** where they meaningfully replace repetitive workflows or augment human decision-making. I care less about novelty and more about **systems that run daily without supervision**.
-
-With a foundation in **data analytics and software engineering**, I approach AI problems end-to-end:  
-*data ingestion → validation → modeling → evaluation → deployment → monitoring.*
+- 🎓 **Master’s in Applied Computing** focused on Data Science & Software Development :contentReference[oaicite:2]{index=2}  
+- 💼 Currently **Data Analyst at MJR Capital Services Inc.** — transforming financial data into operational insights :contentReference[oaicite:3]{index=3}  
+- 🧠 Background in **end-to-end ML/AI solutions** and automated dashboards :contentReference[oaicite:4]{index=4}  
+- 🚀 Passionate about building efficient data pipelines, predictive systems, and scalable applications :contentReference[oaicite:5]{index=5}
 
 ---
 
-## What I Build
+## 🛠 Tech Stack
 
-- 🔁 **Automated data pipelines** that eliminate manual reporting and reconciliation  
-- 📈 **ML workflows** that convert historical data into predictive signals  
-- 🧠 **LLM-powered systems** for information extraction, summarization, and decision support  
-- 📊 **Analytics layers** that connect model outputs to business-facing dashboards  
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
----
+**Data & Visualization:**  
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)  
+![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=power-bi)
 
-## Applied AI & LLM Work
+**Machine Learning & AI:**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-333333?style=flat)
 
-**LLM-driven pipelines**
-- Text classification and structured data extraction  
-- Summarization of long, noisy, real-world documents  
-- Reasoning-assisted analysis over semi-structured data  
-
-**Production-minded considerations**
-- Prompt design vs programmatic control  
-- Deterministic vs probabilistic behavior  
-- Latency, cost, and reliability tradeoffs  
-- Knowing when classical ML or rules outperform LLMs  
-
-**Integration**
-- Embedding LLM outputs into automated workflows  
-- Combining LLM results with SQL- and Python-based analytics  
-- Feeding downstream dashboards and reporting systems  
+**Web & Dev Tools:**  
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)  
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ---
 
-## Automation & Systems Thinking
 
-**Python-driven automation**
-- Data cleaning, validation, and feature generation  
-- Scheduled analytics and report generation  
-- ETL pipelines across multiple data sources  
+## 📬 Contact & Portfolio
 
-**System design principles**
-- Reproducibility over ad-hoc scripts  
-- Clear failure modes and observability  
-- Minimal manual intervention  
-- Metrics-first outputs  
+🌐 **Portfolio:** https://www.shivambhosale.me/  
+💼 **LinkedIn:** https://www.linkedin.com/in/shivambhosale  
+📧 **Email:** shivambhosale909@gmail.com  
+🐦 **Twitter:** https://twitter.com/ProPy_10
 
 ---
 
-## Technical Foundation
+> *“Good decisions start with clean data.”*
 
-**Core**
-- Python · SQL · JavaScript  
 
-**Data & Machine Learning**
-- Pandas · NumPy · scikit-learn  
-- TensorFlow · Keras  
-- Classical ML and neural networks (classification, regression, CNNs)  
 
-**LLMs & AI**
-- Prompt engineering and structured prompting  
-- TF-IDF, embeddings, similarity search  
-- LLM-assisted analytics and automation workflows  
-
-**Engineering & Platforms**
-- Flask · Django · FastAPI  
-- Power BI (DAX) · Tableau  
-- AWS (S3, EC2)  
-- Git · GitHub  
-
----
-
-## How I Evaluate AI Systems
-
-- Does it **measurably reduce human effort**?
-- Are outputs **explainable and auditable**?
-- Can the system **fail safely**?
-- Is automation **cheaper and faster** than manual work?
-
-If the answer is no, I simplify.
-
----
-
-## What This GitHub Represents
-
-- Applied AI projects with real-world constraints  
-- Automation-focused analytics workflows  
-- LLM experiments grounded in system design  
-- Clean, readable implementations meant to scale  
-
----
-
-## Education
-
-**Master of Applied Computing**  
-**Bachelor of Computer Science Engineering**
