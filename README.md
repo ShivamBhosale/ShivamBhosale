@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shivam Bhosale
+# 👋 Hi, I’m Shivam Sunil Bhosale
 
 **Data Analyst | Applied ML & Analytics**  
 Toronto, Canada
