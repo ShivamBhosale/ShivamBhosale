@@ -41,7 +41,7 @@ My approach emphasizes:
 **Web, APIs & Tooling**
 - Django, Flask, FastAPI
 - JavaScript
-- Git, JIRA
+- Git
 
 **Cloud Platforms**
 - AWS, Azure, GCP 
