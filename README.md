@@ -81,13 +81,6 @@ Retrieval-Augmented Generation app that lets users query any PDF in natural lang
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamBhosale&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamBhosale&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
----
 
 > *"Good decisions start with clean data."*
