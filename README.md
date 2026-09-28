@@ -13,7 +13,7 @@
 
 ---
 
-2.5+ years building data pipelines, ML models, and AI systems that turn raw data into decisions. I work across the full analytics stack — from SQL queries and Power BI dashboards to LLM pipelines, financial screeners, and locally-run AI agents.
+2.5+ years building data pipelines, ML models, and AI systems that turn raw data into decisions. 
 
 ---
 
